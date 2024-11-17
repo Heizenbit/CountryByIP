@@ -1,0 +1,4 @@
+SQLAlchemy
+bs4
+beautifulsoup4
+selenium
